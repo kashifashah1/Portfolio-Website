@@ -29,9 +29,9 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 
 📧 Contact
 
-Email: kashifa.shah@gmail.com
-LinkedIn: https://www.linkedin.com/in/kashifa-shah-4974aa272/
-GitHub: https://github.com/kashifashah1
+1. Email: kashifa.shah@gmail.com
+2. LinkedIn: https://www.linkedin.com/in/kashifa-shah-4974aa272/
+3. GitHub: https://github.com/kashifashah1
 
 📝 License
 
