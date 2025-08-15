@@ -3,10 +3,6 @@
 
 Welcome to my personal portfolio website! This site showcases my skills, projects, achievements, and contact information as a Computer Science student passionate about web development and AI.
 
-## 🔗 Live Website
-
-[Visit Portfolio](https://your-portfolio-link.com)
-
 ## 📌 Features
 
 - 🧑‍💻 About Me section
@@ -22,9 +18,6 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 - **Version Control**: Git & GitHub
 - **Design**: Figma (for UI design, if used)
 - **Hosting**: GitHub Pages / Netlify / Vercel *(update as applicable)*
-
-
-✨ Screenshots
 
 
 📧 Contact
