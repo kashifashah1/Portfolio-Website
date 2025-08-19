@@ -7,8 +7,7 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 
 - 🧑‍💻 About Me section
 - 🛠️ Skills and tech stack
-- 💼 Projects with live demos and source code
-- 📜 Resume download
+- 💼 Projects
 - 📫 Contact form with email integration
 - 📱 Responsive design for all devices
 
@@ -17,7 +16,7 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 - **Frontend**: HTML, CSS, JavaScript , Reactjs
 - **Version Control**: Git & GitHub
 - **Design**: Figma (for UI design, if used)
-- **Hosting**: GitHub Pages / Netlify / Vercel *(update as applicable)*
+- **Hosting**: Vercel
 
 
 📧 Contact
